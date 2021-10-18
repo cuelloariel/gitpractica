@@ -29,6 +29,8 @@ if(parimpar == 0){
     console.log("Es impar")
 }
 
+//Dia de la semana
+
 const dia = 7
 switch(dia){
     case 1: 
