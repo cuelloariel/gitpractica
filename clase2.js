@@ -31,7 +31,7 @@ if(parimpar == 0){
 
 //Dia de la semana
 
-const dia = 7
+const dia = 5
 switch(dia){
     case 1: 
         console.log("Lunes")
